@@ -1,11 +1,18 @@
 # NUCLEO AVANÇADO DE TECNOLOGIA - NAT
 
-- Cadastro
-  - Usuario
-  - Estudante
-  - Professor
-  - Fornecedor
+# Funcionalidade do Projeto
 
+Cadastrar usuários no site da Universidade.
+
+Existem 3 tipos de usuários:
+
+1. **Estudantes**
+2. **Professores**
+3. **Fornecedores**
+
+A primeira tela permite que o usuário se cadastre de acordo com sua especialidade.
+
+## Telas do Sistema
 - Login
 
 
